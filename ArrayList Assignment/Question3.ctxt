@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Question3
+comment1.params=nums
+comment1.target=void\ removeConsecutives(java.util.ArrayList)
+comment1.text=\r\n\ This\ method\ removes\ consecutive\ duplicate\ values\ from\ the\ \r\n\ list\ nums.\ \ Hint\:\ loop\ backwards\ through\ the\ list\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
